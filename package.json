@@ -1,0 +1,20 @@
+{
+  "name": "vat-lookup",
+  "version": "1.0.0",
+  "description": "Look up any EU VAT number — get company name, address, revenue, employees, credit score. Covers 250M+ companies.",
+  "main": "index.js",
+  "bin": {
+    "vat-lookup": "./index.js"
+  },
+  "keywords": [
+    "vat", "vat-number", "vat-lookup", "vat-check", "vat-validation",
+    "company-data", "eu-vat", "tax-id", "vies", "company-lookup",
+    "business-data", "revenue", "employees", "credit-score"
+  ],
+  "author": "Alessandro Binda <ale@get-scala.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alessandro114/vat-lookup"
+  }
+}
