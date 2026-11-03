@@ -1,7 +1,7 @@
 {
   "name": "vat-lookup",
   "version": "1.0.0",
-  "description": "Look up any EU VAT number — get company name, address, revenue, employees, credit score. Covers 250M+ companies.",
+  "description": "Look up any EU VAT number — get company name, address and, where available, revenue, employees and credit score. Covers 249M+ records.",
   "main": "index.js",
   "bin": {
     "vat-lookup": "./index.js"
