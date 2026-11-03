@@ -37,7 +37,7 @@ No API key needed. Free tier: 50 lookups/month.
 
 ## Data
 
-- 250M+ companies across 50+ countries
+- 249M+ companies in 264 countries
 - Covers all EU member states + UK, US, and more
 - Sources: official government business registries
 
@@ -51,3 +51,7 @@ No API key needed. Free tier: 50 lookups/month.
 ## License
 
 MIT
+
+## Data coverage
+
+S.C.A.L.A. Score holds about 249 million company records from public registries and open data in 264 countries (figure shown on [score.get-scala.com](https://score.get-scala.com), checked 03/11/2026). Financial fields such as revenue, employees or score are present only where the source publishes them, which is a minority of the records; always check each field before relying on it.
