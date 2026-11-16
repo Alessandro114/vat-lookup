@@ -46,7 +46,7 @@ No API key needed. Free tier: 50 lookups/month.
 - [enrich-companies](https://www.npmjs.com/package/enrich-companies) — Enrich a CSV with company data
 - [company-lookup](https://www.npmjs.com/package/company-lookup) — Look up by company name
 - [scala-mcp-server](https://www.npmjs.com/package/scala-mcp-server) — MCP server for AI agents
-- [Score Company Lookup](https://chromewebstore.google.com/detail/score-company-lookup/) — Chrome extension
+- [Score Company Lookup](https://chromewebstore.google.com/detail/kndiagbegncemmdbeaoibplcnoclkgbo) — Chrome extension
 
 ## License
 
